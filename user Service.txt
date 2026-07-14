@@ -1,2 +1,3 @@
 Hello and welcome to user service
 You are welcome my friend take a seat and enjoy the course with atmost pleasure 
+Crete an avatar for user 
